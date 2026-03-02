@@ -11,15 +11,15 @@
 │                   • ACIR&D AUTHORIZED PERSONNEL IDENTITY •                   │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │                                                                              │
-│  NAME:  Sam Rohan.                                                           │
-│  TITLE: Founder & Principal Architect.                                       │
-│  ENTITY: ADVANCED CYBER INTELLIGENCE RESEARCH AND DEVELOPMENT PROGRAM.       │
-│  DOMAIN: Science, Engineering and Technology.                                │
+│  NAME:    Sam Rohan.                                                         │
+│  TITLE:   Founder & Principal Architect.                                     │
+│  ENTITY:  Advanced Cyber Intelligence Research and Development Program.      │
+│  DOMAIN:  Science, Engineering and Technology.                               │
 │                                                                              │
 │  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
 │                                                                              │
-│  COMMAND CENTER: India | DEPLOYMENTS: Active Globally.                       │
-│                                                                              │
+│  COMMAND CENTER: India | DEPLOYMENTS: Active Globally.                       |
+│  UNIQUE ID:      ACIRD-ALPHA-91949699000103072425-IN                         |
 │                                                                              │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
