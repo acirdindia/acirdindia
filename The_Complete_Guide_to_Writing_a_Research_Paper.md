@@ -15,6 +15,16 @@
     </a>
 </p>
 
+
+<br><br>
+
+<p align="center">
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/">
+    <img src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg" alt="License: CC BY-SA 4.0" />
+  </a>
+</p>
+
+
 <br><br><br><br>
 
 > [NOTE]
