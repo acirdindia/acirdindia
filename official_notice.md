@@ -15,13 +15,49 @@
     </a>
 </p>
 
- 
+
 <br><br>
 
- 
-<h1 align="center">OFFICIAL NOTICE:</h1>
+<p align="center">
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/">
+    <img src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg" alt="License: CC BY-SA 4.0" />
+  </a>
+</p>
+
+<br><br><br><br>
+
+
+> [NOTE]
+
+This document is a living resource. Suggestions for improvement are welcome and should be directed to the author.
 
 <br>
+
+> [!IMPORTANT]
+
+This work is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License** (CC BY-SA 4.0).
+
+When using, redistributing, adapting, or building upon this material, you **must** provide proper attribution by:
+
+- 1. **Clearly stating the original source** as the **ACI R&D GitHub repository**.
+- 2. **Including the exact URL(s)** to the relevant repository or file(s).
+
+**Example Attribution Format:**  
+- This work is based on content from the ACI R&D GitHub repository, available at:  
+- https://github.com/acirdindia/acirdindia
+
+Under the CC BY-SA license, you **must also**:
+- Indicate if changes were made.
+- License any adapted material under **identical terms** (CC BY-SA 4.0).
+
+Failure to provide accurate source attribution violates the license terms.
+
+ 
+<br><br><br><br>
+
+<h1 align="center">OFFICIAL NOTICE:</h1>
+
+<br><br>
 
 **1. Overview & Mission Alignment:** This platform serves as a core node within the  ACI R&D ecosystem, hosting and disseminating multidisciplinary research, engineering documentation, and collaborative resources. Our mission is to advance open knowledge, foster co-creation, and define the next frontier of cybersecurity and advanced engineering. By accessing, using, or contributing to these resources, you ("the User") agree to abide by the following terms, which are designed to uphold our principles of ethical responsibility, democratic access, and innovation.
 
