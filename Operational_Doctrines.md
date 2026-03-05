@@ -56,9 +56,6 @@ Failure to provide accurate source attribution violates the license terms.
 <br><br><br><br>
 
 
-
-<br><br><br><br>
-
 <h1 align="center">OPERATIONAL DOCTRINES FOR THE GUARDIANS OF DIGITAL COMMONS.</h1>
 
 <br>
